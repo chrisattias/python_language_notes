@@ -4,7 +4,7 @@
 
 ---
 
-![](images/pynotes.jpg)
+![](notebooks/images/pynotes.jpg)
 
 ---
 
