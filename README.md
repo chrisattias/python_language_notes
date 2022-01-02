@@ -46,11 +46,12 @@
 ---
 
 ## Repository Contents
-- 20 + Jupyter notebook (.ipynb) files which contain notes written in Markdown and example Python code.
-- 20 + HTML versions of the notebook files.
-- images--folder containing images used within notebooks.
-- input--folder containing files inputted by notebooks.
-- output--folder containing files outputted by notebooks.
+- notebooks--folder containing:
+    - 20 + Jupyter notebook (.ipynb) files which consist of notes written in Markdown and example Python code.  
+    - HTML versions of the notebook files.
+    - images--folder containing images used within notebooks.
+    - input--folder containing files inputted by notebooks.
+    - output--folder containing files outputted by notebooks.
 - environment.yml--YML file that specifies conda environment.  Used with Binder when Jupyter notebooks are run interactively.
 - .gitignore--plaintext file that specifies which files to exclude from GitHub repository.
 - README.md--what you are currently reading.  A Markdown file.
@@ -60,7 +61,7 @@
 ## Viewing Notes
 There are multiple options for viewing these notes:
 
-1. The Jupyter notebooks can be run interactively in a web browser  All we have to do is follow the following link (load time is usually about one minute):
+1. The Jupyter notebooks can be run interactively in a web browser.  All we have to do is follow the following link (load time is usually less than one minute):
     - https://mybinder.org/v2/gh/chrisattias/python_language_notes/HEAD
 1. This GitHub repository folder could be downloaded by clicking on the "Code" button above, followed by the "Download Zip" button.  After downloading and extracting the zip file, the notes can be easily viewed by opening an HTML file with a web browser. 
 1. More advanced users could download and open the Jupyter notebooks locally after installing the needed dependencies.
