@@ -14,7 +14,7 @@ dependencies:  # In order of appearence
   - pyautogui
   - selenium
   - pip
-  - pip
+  - pip:
     - pyinputplus
 
 # We do not provide working examples `pytest` or `gspread` so these are not needed
