@@ -1,0 +1,3 @@
+.ipynb_checkpoints  # Ignore any Juypter notebook checkpoints file
+.pytest_cache  # Ignore any Pytest files
+__pycache__  # Ignore any cached files

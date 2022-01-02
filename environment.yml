@@ -1,0 +1,19 @@
+name: env_for_python_language_notes
+channels:
+  - conda-forge
+dependencies:  # In order of appearence
+  - python
+  - pyperclip
+  - seaborn  # Depends on numpy, scipy, pandas, and matplotlib
+  - openpyxl  # Optional Pandas dependencies
+  - send2trash
+  - python-docx
+  - pillow
+  - requests
+  - beautifulsoup4
+  - pyautogui
+  - selenium
+  - pip
+    - pyinputplus
+
+# We do not provide working examples `pytest` or `gspread` so these are not needed

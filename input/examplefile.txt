@@ -1,0 +1,4 @@
+line one is here.  This is a file for practicing with the file open() function
+line two is here
+line three is here
+line four is here
