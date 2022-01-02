@@ -60,7 +60,7 @@
 ## Viewing Notes
 There are multiple options for viewing these notes:
 
-1. The Jupyter notebooks can be run interactively in a web browser  This is possible because of [Binder](https://mybinder.org/).  All we have to do is follow the following link. Load time is usually about one minute.
+1. The Jupyter notebooks can be run interactively in a web browser  All we have to do is follow the following link (load time is usually about one minute):
     - https://mybinder.org/v2/gh/chrisattias/python_language_notes/HEAD
 1. This GitHub repository folder could be downloaded by clicking on the "Code" button above, followed by the "Download Zip" button.  After downloading and extracting the zip file, the notes can be easily viewed by opening an HTML file with a web browser. 
 1. More advanced users could download and open the Jupyter notebooks locally after installing the needed dependencies.
